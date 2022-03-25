@@ -1,0 +1,15 @@
+body {
+  font-family: system-ui;
+  background: #f06d06;
+  color: white;
+  text-align: center;
+}
+.u-list{
+  list-style-type: disk;
+  padding: 5px;
+  margin-left: 35px;
+ 
+}
+.tex{
+  margin-left:100px;
+}
